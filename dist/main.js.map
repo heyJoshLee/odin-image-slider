@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":"AAAAA,MAAM","sources":["webpack://odin-image-slider/./src/index.js"],"sourcesContent":["alert(\"hi there\");"],"names":["alert"],"sourceRoot":""}
